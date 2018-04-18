@@ -79,7 +79,13 @@ article {
   margin-right: 2rem;
   text-align: center;
 }
-
+.about h2 {
+  color: white;
+}
+.about img {
+  width: 80%;
+  padding-bottom: 0;
+}
 
 #week {
   display: inline-flex;
