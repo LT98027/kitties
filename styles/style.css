@@ -79,7 +79,7 @@ article {
   margin-right: 2rem;
   text-align: center;
 }
-.about h2 {
+.about h2, h4 {
   color: white;
 }
 .about img {
